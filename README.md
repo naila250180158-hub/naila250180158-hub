@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hai, aku Naila 👋
 
-<!--
-**naila250180158-hub/naila250180158-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mahasiswa Sistem informasi di Universitas Malikussaleh yang sedang belajar pemrograman web.
 
-Here are some ideas to get you started:
+## Yang sedang aku pelajari
+- PHP
+- HTML & CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyek
+- [Product Information System](https://github.com/naila250180158-hub/product-information-system): mini project pemrograman web berbasis PHP
+
+## Portofolio
+🔗 [Lihat website portofolioku](https://naila250180158-hub.github.io/portfolio/)
+
+## Kontak
+- GitHub: [@naila250180158-hub](https://github.com/naila250180158-hub)
